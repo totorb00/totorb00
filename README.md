@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @totorb00
-- 👀 I’m interested in robocon robot
+- 👀 I’m interested in robocon robot and Drone
 - 🌱 I’m currently learning ROS, PCL, ImageProcessing and Embedded C
 
 
